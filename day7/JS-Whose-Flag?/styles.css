@@ -1,0 +1,25 @@
+img{
+    width: 300px;
+    height: 150px;
+    /* position: absolute; */
+    /* position: relative; */
+    /* top: 50%;    */
+}
+.flags{
+    position: absolute;
+    top: 24%;
+    left: 29%
+}
+.welcome{
+    position: absolute;
+    left: 20%;
+    font-size:40px; 
+}
+#text{
+    position: absolute;
+    font-size: 50px;
+    top:50%;
+    /* color: darkblue; */
+    left:46%;
+    font-family: fantasy;
+}
