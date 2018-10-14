@@ -1,0 +1,16 @@
+body{
+    background: #000000;
+}
+#txt{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #17D4FE;
+    font-size: 60px;
+    /* font-family:Orbitron; */
+    letter-spacing: 7px;
+    font-family: fantasy;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+/* inspired by https://codepen.io/afarrar/pen/JRaEjP */
